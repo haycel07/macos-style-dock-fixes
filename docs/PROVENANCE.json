@@ -1,0 +1,15 @@
+{
+  "version": "1.0-local.4",
+  "publishedDate": "2026-11-11",
+  "upstreamName": "MacOS Style Dock 1.0",
+  "upstreamAuthor": "Zach Vaughn",
+  "upstreamRepository": "https://github.com/ramensoftware/windhawk-mods",
+  "upstreamVersionedSource": "https://raw.githubusercontent.com/ramensoftware/windhawk-mods/pages/mods/macos-style-dock/1.0.wh.cpp",
+  "upstreamSourceSHA256": "613B8EA8C38E6E7C7C06AB46068E382322CF6EDE74C63BD23A29B60BE7A6C8C7",
+  "license": "GPL-3.0",
+  "builder": "Windhawk 1.7.3 bundled Clang 20, Windows x64",
+  "source": "src/macos-style-dock.wh.cpp",
+  "sourceSHA256": "AEF17CD664B013389A618477A64C7888E1AA3957507E7ED56FA48E8A7F51618F",
+  "binary": "bin/macos-style-dock_1.0-local.4.dll",
+  "binarySHA256": "F3985011FAC3471C127D8A605FF3DB4E344C90975E91334B3711C1E725F63ED5"
+}
